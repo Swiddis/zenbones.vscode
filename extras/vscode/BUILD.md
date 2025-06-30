@@ -16,8 +16,16 @@ Press F5 in VS Code.
 
 ## Package extension
 
+Install the `vsce` and `ovsx` CLIs from the repository `package.json`, then:
+
 `vsce package`
 
 ## Publish extension
 
-`vsce publish`
+```
+# VSCode Marketplace
+$ vsce publish
+
+# Open VSX Registry
+$ ovsx publish
+```
