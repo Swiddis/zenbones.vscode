@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@vscode/vsce": "^3.6.0",
-    "ovsx": "^0.10.4"
-  }
-}
