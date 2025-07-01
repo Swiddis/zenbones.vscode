@@ -16,7 +16,7 @@ Press F5 in VS Code.
 
 ## Package extension
 
-Install the `vsce` and `ovsx` CLIs from the repository `package.json`, then:
+Install the `vsce` and `ovsx` CLIs, then:
 
 `vsce package`
 
